@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [codewitharun.github.io/blog](codewitharun.github.io/blog)
 
-- 💬 Ask me about **Python, javascript,html5,css3 ,c**
+- 💬 Ask me about **React Native, React js, javascript,html5,css3 ,Redux ,Firebase**
 
-- 📫 How to reach me **whoarunsingh@gmail.com**
+- 📫 How to reach me **arunk4it@hotmail.com**
 
 - 📄 Know about my experiences [codewitharun.github.io/blog](codewitharun.github.io/blog)
 
