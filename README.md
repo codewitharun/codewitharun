@@ -26,7 +26,6 @@
 <a href="https://twitter.com/arunk4it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunk4it" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arunk4it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunk4it" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16115046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16115046" height="30" width="40" /></a>
-<a href="/https://rss.app/feeds/uu1eyrczmbrzx0bu.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/uu1eyrczmbrzx0bu.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
