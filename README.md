@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on [Taskflow](https://github.com/codewitharun/Taskflow)
 
-- 👨‍💻 All of my projects are available at [https://www.appaura.xyz/portfolio](https://www.appaura.xyz/portfolio)
+- 👨‍💻 All of my projects are available at [https://www.appaura.xyz/portfolio](https://www.arun.codes/portfolio)
 
-- 📝 I regularly write articles on [https://www.appaura.xyz/blog](https://www.appaura.xyz/blog)
+- 📝 I regularly write articles on [https://www.appaura.xyz/blog](https://www.arun.codes/blog)
 
 - 💬 Ask me about **React Native, Javascript , Typescript, Native Modules**
 
