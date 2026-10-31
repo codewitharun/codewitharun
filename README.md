@@ -1,38 +1,74 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar</h1>
-<h3 align="center">A passionate React Native developer from India</h3>
+<h3 align="center">React Native & full-stack JavaScript developer from Jaipur, India · 4 years of shipping apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewitharun&label=Profile%20views&color=0e75b6&style=flat" alt="codewitharun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewitharun" alt="codewitharun" /></a> </p>
-
-- 🔭 I’m currently working on [ESplit App](https://github.com/codewitharun/eSplit)
-
-- 🌱 I’m currently learning **Native Mobile Development (Kotlin, Swift)**
-
-- 👯 I’m looking to collaborate on [Taskflow](https://github.com/codewitharun/Taskflow)
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.arun.codes/portfolio)
-
-- 📝 I regularly write articles on [BlogPost](https://www.arun.codes/blog)
-
-- 💬 Ask me about **React Native, Javascript , Typescript, Native Modules**
-
-- 📫 How to reach me **arunk4it@gmail.com**
-
-- ⚡ Fun fact **I’m a React Native developer by day, a master chef by night, and my friends can’t decide if I write better code or cook better chicken!😋🍗**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arunk4it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunk4it" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arunk4it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunk4it" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16115046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16115046" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://techtiten.com"><img src="https://img.shields.io/badge/techtiten.com-Portfolio-00ffa4?style=for-the-badge&labelColor=0b0b12" alt="techtiten.com" /></a>
+  <a href="https://linkedin.com/in/arunk4it"><img src="https://img.shields.io/badge/LinkedIn-arunk4it-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b12" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/arunk4it"><img src="https://img.shields.io/badge/X-@arunk4it-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0b0b12" alt="X" /></a>
+  <a href="https://stackoverflow.com/users/16115046"><img src="https://img.shields.io/badge/Stack%20Overflow-Arun-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0b0b12" alt="Stack Overflow" /></a>
+  <a href="mailto:arunk4it@gmail.com"><img src="https://img.shields.io/badge/Email-arunk4it%40gmail.com-a668ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b12" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=codewitharun&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewitharun&show_icons=true&locale=en&layout=compact" alt="codewitharun" /></p>
+I build mobile apps end to end: React Native front ends, Node/Express or Firebase back ends, payments, real-time features and the CI that ships them. By day I build apps at my job; on the side I ship my own hobby apps under **[Techtiten](https://techtiten.com)**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewitharun&show_icons=true&locale=en" alt="codewitharun" /></p>
+### 📱 Apps I've built and shipped
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewitharun&" alt="codewitharun" /></p>
+| App | What it does | Stack |
+|---|---|---|
+| **[FitPrep](https://play.google.com/store/apps/details?id=com.arun.fitprep)** | AI meal plans built around your protein, prep-day checklists, meal / water / gym tracking, home-screen widgets | React Native (Expo), Node API on Vercel, Firebase, Play Billing, Gemini |
+| **[EzySplit](https://play.google.com/store/apps/details?id=com.techtitens.ezysplit)** | Split group expenses, settle up with UPI in one tap, PDF / Excel exports | React Native (Expo), Firebase, Express + TypeScript on Vercel |
+| **Studymark** | Study + habit planner (coming soon) | React Native |
+
+More case studies, including apps built at work (live streaming, insurance, AI): **[techtiten.com/portfolio](https://techtiten.com/portfolio)** · Blog: **[techtiten.com/blog](https://techtiten.com/blog)**
+
+### ⚡ About me
+
+- 🔭 Working on **FitPrep**: on-device workout form check (pose detection) and smarter AI meal plans
+- 🌱 Learning: **JavaScript fundamentals, deeper** (my own JS Gym, one exercise a day) and **native modules (Kotlin, Swift)**
+- 💬 Ask me about **React Native, Expo, TypeScript, Firebase, WebRTC / live streaming, payments, native modules**
+- 🍗 Fun fact: React Native developer by day, master chef by night. My friends still can't decide if I write better code or cook better chicken 😋
+
+### 🛠 Tech stack
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,py&perline=12" alt="JavaScript, TypeScript, HTML, CSS, Python" />
+
+**Mobile & frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite&perline=12" alt="React Native / React, Next.js, Redux, Tailwind, Material UI, Vite" />
+
+**Backend, database & cloud**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,vercel&perline=12" alt="Node.js, Express, MongoDB, Firebase, Vercel" />
+
+**Tools & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,androidstudio,apple,postman,gradle,jest,linux&perline=12" alt="Git, GitHub, GitHub Actions, VS Code, Android Studio, Xcode, Postman, Gradle, Jest, Linux" />
+
+<details>
+<summary><b>Full skills list</b> (click to open)</summary>
+
+| Area | Skills |
+|---|---|
+| **Mobile** | React Native (advanced), React Navigation (advanced), Redux Toolkit + Redux Persist, React Native Paper, Reanimated, FlashList, Vision Camera, Skia, Expo |
+| **Web** | React.js, Next.js, Tailwind CSS, Material UI, Vite, Quill editor |
+| **Backend** | Node.js, Express.js, REST API design (advanced), Socket.io, Mongoose, webhooks & cron jobs |
+| **Data & cloud** | MongoDB, Firebase (Firestore, Realtime Database, Auth, Admin SDK), Vercel |
+| **Real-time & media** | WebRTC, STUN / TURN, MediaSoup, live streaming |
+| **Payments** | Razorpay, Google Play Billing |
+| **Libraries** | React Native Firebase, Notifee, Image Crop Picker, Gifted Chat, Mappls GL, Vector Icons |
+| **Tools** | Git & GitHub, VS Code, Android Studio, Xcode, Postman, Reactotron, Gradle, GitHub Actions, Fastlane, SonarQube, Jest |
+| **AI** | LLM integrations (Gemini), Hugging Face, Python basics |
+
+**What I do best:** cross-platform app architecture, full-stack JavaScript, real-time messaging and live streaming, payment and third-party SDK integration, state management, performance tuning, and debugging all the way to the store release.
+
+</details>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewitharun&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=codewitharun&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
