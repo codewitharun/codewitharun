@@ -1,0 +1,23 @@
+name: Latest blog posts
+
+# Pulls the newest posts from techtiten.com/rss.xml into the README,
+# between the BLOG-POST-LIST markers.
+on:
+  schedule:
+    - cron: "41 */12 * * *" # twice a day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://techtiten.com/rss.xml"
+          max_post_count: 4
+          commit_message: "README: latest blog posts"

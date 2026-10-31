@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arun Kumar</h1>
-<h3 align="center">React Native & full-stack JavaScript developer from Jaipur, India · 4 years of shipping apps</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffa4,50:7c5cff,100:0b0b12&height=200&section=header&text=Arun%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=React%20Native%20%C2%B7%20Full-stack%20JS%20%C2%B7%20Techtiten&descAlignY=72&fontAlignY=38" alt="Arun Kumar" />
+
+<p align="center">
+  <a href="https://techtiten.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FFA4&center=true&vCenter=true&width=640&lines=I+ship+React+Native+apps+end+to+end+%F0%9F%9A%80;FitPrep+%C2%B7+EzySplit+%C2%B7+Studymark;Mobile+%2B+Node+%2B+Firebase+%2B+CI;Cooking+chicken+between+builds+%F0%9F%8D%97" alt="Typing intro" /></a>
+</p>
 
 <p align="center">
   <a href="https://techtiten.com"><img src="https://img.shields.io/badge/techtiten.com-Portfolio-00ffa4?style=for-the-badge&labelColor=0b0b12" alt="techtiten.com" /></a>
@@ -9,11 +12,24 @@
   <a href="mailto:arunk4it@gmail.com"><img src="https://img.shields.io/badge/Email-arunk4it%40gmail.com-a668ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b12" alt="Email" /></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=codewitharun&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=codewitharun&label=Profile%20views&color=7c5cff&style=flat-square" alt="profile views" /></p>
 
 I build mobile apps end to end: React Native front ends, Node/Express or Firebase back ends, payments, real-time features and the CI that ships them. By day I build apps at my job; on the side I ship my own hobby apps under **[Techtiten](https://techtiten.com)**.
 
-### 📱 Apps I've built and shipped
+```js
+const arun = {
+  basedIn: "Jaipur, India 🇮🇳",
+  role: "React Native & full-stack JavaScript developer",
+  experience: "4 years of shipping apps to real users",
+  shipping: ["FitPrep", "EzySplit", "Studymark (soon)"],
+  workingOn: "On-device workout form check (pose detection) for FitPrep",
+  learning: ["JavaScript internals (my own JS Gym, one exercise a day)", "Native modules in Kotlin + Swift"],
+  askMeAbout: ["React Native", "Expo", "TypeScript", "Firebase", "WebRTC / live streaming", "Payments"],
+  funFact: "Developer by day, master chef by night. Friends still can't decide: better code or better chicken? 🍗",
+};
+```
+
+## 📱 Apps I've built and shipped
 
 | App | What it does | Stack |
 |---|---|---|
@@ -21,16 +37,20 @@ I build mobile apps end to end: React Native front ends, Node/Express or Firebas
 | **[EzySplit](https://play.google.com/store/apps/details?id=com.techtitens.ezysplit)** | Split group expenses, settle up with UPI in one tap, PDF / Excel exports | React Native (Expo), Firebase, Express + TypeScript on Vercel |
 | **Studymark** | Study + habit planner (coming soon) | React Native |
 
-More case studies, including apps built at work (live streaming, insurance, AI): **[techtiten.com/portfolio](https://techtiten.com/portfolio)** · Blog: **[techtiten.com/blog](https://techtiten.com/blog)**
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.arun.fitprep"><img src="https://img.shields.io/badge/Get%20FitPrep-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0b0b12" alt="Get FitPrep on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.techtitens.ezysplit"><img src="https://img.shields.io/badge/Get%20EzySplit-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0b0b12" alt="Get EzySplit on Google Play" /></a>
+</p>
 
-### ⚡ About me
+More case studies, including apps built at work (live streaming, insurance, AI): **[techtiten.com/portfolio](https://techtiten.com/portfolio)**
 
-- 🔭 Working on **FitPrep**: on-device workout form check (pose detection) and smarter AI meal plans
-- 🌱 Learning: **JavaScript fundamentals, deeper** (my own JS Gym, one exercise a day) and **native modules (Kotlin, Swift)**
-- 💬 Ask me about **React Native, Expo, TypeScript, Firebase, WebRTC / live streaming, payments, native modules**
-- 🍗 Fun fact: React Native developer by day, master chef by night. My friends still can't decide if I write better code or cook better chicken 😋
+## ✍️ Latest from my blog
 
-### 🛠 Tech stack
+<!-- BLOG-POST-LIST:START -->
+- Fresh posts land here automatically. Meanwhile: **[techtiten.com/blog](https://techtiten.com/blog)**
+<!-- BLOG-POST-LIST:END -->
+
+## 🛠 Tech stack
 
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,py&perline=12" alt="JavaScript, TypeScript, HTML, CSS, Python" />
@@ -63,12 +83,30 @@ More case studies, including apps built at work (live streaming, insurance, AI):
 
 </details>
 
-### 📊 GitHub stats
+**Certifications:** [React Native — Meta (Coursera), 2026](https://www.coursera.org/account/accomplishments/verify/D5J4LNEH1HWU)
+
+## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewitharun&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=codewitharun&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b0b12&title_color=00ffa4&icon_color=7c5cff&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=codewitharun&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0b0b12&title_color=00ffa4" alt="Most used languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codewitharun&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=codewitharun&theme=tokyonight&hide_border=true&background=0b0b12&ring=00ffa4&fire=7c5cff&currStreakLabel=00ffa4" alt="GitHub streak" />
 </p>
+
+## 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewitharun/codewitharun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewitharun/codewitharun/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/codewitharun/codewitharun/output/github-snake-dark.svg" />
+</picture>
+
+## 💭 Dev quote of the visit
+
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default&quoteType=random" alt="Random dev quote" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,50:7c5cff,100:00ffa4&height=120&section=footer" alt="" />
