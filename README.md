@@ -47,7 +47,10 @@ More case studies, including apps built at work (live streaming, insurance, AI):
 ## ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
-- Fresh posts land here automatically. Meanwhile: **[techtiten.com/blog](https://techtiten.com/blog)**
+- [From side project to FitPrep Pro: what I learned asking people to pay](https://techtiten.com/blog/fitprep-pro-side-project-to-paid)
+- [Split bills, settle with UPI: what I learned building EzySplit](https://techtiten.com/blog/split-bills-settle-with-upi-what-i-learned-building-ezysplit)
+- [Split bills without the awkward chat: meet EzySplit](https://techtiten.com/blog/ezysplit-split-bills-with-friends)
+- [Meet FitPrep: the AI diet and gym tracker that plans your week](https://techtiten.com/blog/fitprep-ai-diet-gym-tracker)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Tech stack
