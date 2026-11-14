@@ -47,10 +47,10 @@ More case studies, including apps built at work (live streaming, insurance, AI):
 ## ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [A Splitwise Alternative Built for India: Split Bills and Settle with UPI in One Tap](https://techtiten.com/blog/splitwise-alternative-india-upi)
 - [One Repo for Expo + Next.js: Shared Theme, Shared Logic and a Typed API](https://techtiten.com/blog/expo-nextjs-monorepo-shared-theme-typed-api)
 - [High-Protein Indian Meal Prep for the Gym: A Simple 5-Day Plan &lpar;Veg + Non-Veg&rpar;](https://techtiten.com/blog/high-protein-indian-meal-prep-plan)
 - [From side project to FitPrep Pro: what I learned asking people to pay](https://techtiten.com/blog/fitprep-pro-side-project-to-paid)
-- [Split bills, settle with UPI: what I learned building EzySplit](https://techtiten.com/blog/split-bills-settle-with-upi-what-i-learned-building-ezysplit)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Tech stack
