@@ -47,10 +47,10 @@ More case studies, including apps built at work (live streaming, insurance, AI):
 ## ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [One Zod API Contract for Your Expo App and Node Server &lpar;No More Type Drift&rpar;](https://techtiten.com/blog/zod-api-contract-expo-node-server)
 - [AI Agents Now Run Projects for Weeks. Here&#39;s What Mine Shipped While I Was on Vacation](https://techtiten.com/blog/ai-agents-kept-shipping-while-on-vacation)
 - [Sunday Meal Prep Checklist: Prep Once, Eat Well All Week &lpar;Indian, High-Protein&rpar;](https://techtiten.com/blog/sunday-meal-prep-checklist)
 - [A Splitwise Alternative Built for India: Split Bills and Settle with UPI in One Tap](https://techtiten.com/blog/splitwise-alternative-india-upi)
-- [One Repo for Expo + Next.js: Shared Theme, Shared Logic and a Typed API](https://techtiten.com/blog/expo-nextjs-monorepo-shared-theme-typed-api)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Tech stack
