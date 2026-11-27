@@ -47,10 +47,10 @@ More case studies, including apps built at work (live streaming, insurance, AI):
 ## ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Split Goa Trip Expenses with Friends &lpar;Without the WhatsApp Chaos&rpar;](https://techtiten.com/blog/split-goa-trip-expenses-with-friends)
 - [Expo Just Gave AI Agents Their Own iPhone in the Cloud. Here&#39;s What It Means for Solo App Makers](https://techtiten.com/blog/expo-cloud-simulators-ai-agents)
 - [Protein Maxxing Is Everywhere. Your Dal, Paneer and Eggs Already Do the Job](https://techtiten.com/blog/protein-maxxing-india-dal-paneer-eggs)
 - [One Zod API Contract for Your Expo App and Node Server &lpar;No More Type Drift&rpar;](https://techtiten.com/blog/zod-api-contract-expo-node-server)
-- [AI Agents Now Run Projects for Weeks. Here&#39;s What Mine Shipped While I Was on Vacation](https://techtiten.com/blog/ai-agents-kept-shipping-while-on-vacation)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Tech stack
